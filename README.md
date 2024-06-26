@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shinkiro
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning html, css and 3D
+- 🌱 I’m currently C++ and Blueprint for Unreal
 - 📫 How to reach me: alengirao13@gmail.com
 
 <!---
